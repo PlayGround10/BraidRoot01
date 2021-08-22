@@ -1,6 +1,11 @@
 {
   "config_version": 1,
   "mirrors": {
+    "lib/BraidLib02": {
+      "url": "git://github.com/PlayGround10/BraidLib02.git",
+      "branch": "master",
+      "revision": "eb4da6efe161790383f749e4585f4b97de268106"
+    },
     "lib/grit": {
       "url": "git://github.com/mojombo/grit.git",
       "branch": "master",
