@@ -1,0 +1,10 @@
+{
+  "config_version": 1,
+  "mirrors": {
+    "lib/grit": {
+      "url": "git://github.com/mojombo/grit.git",
+      "branch": "master",
+      "revision": "5608567286e64a1c55c5e7fcd415364e04f8986e"
+    }
+  }
+}
