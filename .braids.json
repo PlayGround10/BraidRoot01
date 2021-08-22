@@ -2,7 +2,7 @@
   "config_version": 1,
   "mirrors": {
     "lib/BraidLib02": {
-      "url": "git://github.com/PlayGround10/BraidLib02.git",
+      "url": "https://github.com/PlayGround10/BraidLib02.git",
       "branch": "master",
       "revision": "370ea938656d4d5cfca04ef1e60cbf61ef52c129"
     },
